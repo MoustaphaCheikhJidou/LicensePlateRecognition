@@ -22,8 +22,8 @@ To set up and run this project, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-github-username/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/MoustaphaCheikhJidou/LicensePlateRecognition
+   cd LicensePlateRecognition
 
 
 2. Clone and Setup YOLOv8 Repository Clone the YOLOv8 repository and install its dependencies:
