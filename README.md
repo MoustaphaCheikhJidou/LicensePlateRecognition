@@ -12,7 +12,6 @@ After gathering diverse and high-quality images in the first phase, this stage i
 
 ### Repository Structure
 
-- `Automatic-License-Plate-Recognition-using-YOLOv8/`: Cloned repository containing YOLOv8 implementation.
 - `requirements.txt`: Python dependencies required for the project.
 - `Second phase notebook JIDDOU26.ipynb`: Jupyter Notebook with the full pipeline of loading, processing, and outputting license plate data.
 - `test notebook .ipynb`: Jupyter Notebook with the full pipeline to test on a particular image.
