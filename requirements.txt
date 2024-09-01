@@ -1,23 +1,10 @@
-<<<<<<< HEAD
-numpy
-pandas
-opencv-python
+numpy==1.24.3
+pandas==2.0.2
+opencv-python==4.7.0.72
 matplotlib
-easyocr
-torch==1.10.0
-torchvision==0.11.1
+easyocr==1.7.0
 Pillow
 jupyter
-ultralytics
-=======
-numpy
-pandas
-opencv-python
-matplotlib
-easyocr
-torch==1.10.0
-torchvision==0.11.1
-Pillow
-jupyter
-ultralytics
->>>>>>> 1e796c13a7b5d6716ae77f4a63acd9a1d62bc78b
+ultralytics==8.0.114
+scipy==1.10.1
+filterpy==1.4.5

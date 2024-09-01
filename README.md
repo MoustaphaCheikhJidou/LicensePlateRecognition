@@ -28,21 +28,14 @@ To set up and run this project, follow these steps:
 
 2. Clone and Setup YOLOv8 Repository Clone the YOLOv8 repository and install its dependencies:
     ```bash
-    pip install -r requirements.txt
-    git clone https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8.git
-    cd Automatic-License-Plate-Recognition-using-YOLOv8
-    pip install -r requirements.txt
-    
-    !pip install ultralytics
-
-2. Launch the Jupyter Notebook to begin experimenting:
-    ```bash
-    jupyter notebook
+    pip install -r requirements.txt    
+    pip install ultralytics
     
 
 ### Usage
 
-Run the Jupyter Notebook to process images from the specified directories in your Google Drive, detect license plates, and output recognized plate numbers. The notebook is designed to be intuitive and easy to use for participants at all levels.
+Run Second phase notebook JIDDOU26.ipynb notebook to regenerate submission.csv
+Run test notebook .ipynb to test on a specific image
 
 ### Contributing
 
