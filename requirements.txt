@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy
 pandas
 opencv-python
@@ -8,3 +9,15 @@ torchvision==0.11.1
 Pillow
 jupyter
 ultralytics
+=======
+numpy
+pandas
+opencv-python
+matplotlib
+easyocr
+torch==1.10.0
+torchvision==0.11.1
+Pillow
+jupyter
+ultralytics
+>>>>>>> 1e796c13a7b5d6716ae77f4a63acd9a1d62bc78b
