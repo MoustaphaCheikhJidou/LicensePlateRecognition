@@ -14,7 +14,8 @@ After gathering diverse and high-quality images in the first phase, this stage i
 
 - `Automatic-License-Plate-Recognition-using-YOLOv8/`: Cloned repository containing YOLOv8 implementation.
 - `requirements.txt`: Python dependencies required for the project.
-- `.ipynb`: Jupyter Notebook with the full pipeline of loading, processing, and outputting license plate data.
+- `Second phase notebook JIDDOU26.ipynb`: Jupyter Notebook with the full pipeline of loading, processing, and outputting license plate data.
+- `test notebook .ipynb`: Jupyter Notebook with the full pipeline to test on a particular image.
 
 ### Setup and Installation
 
@@ -34,7 +35,7 @@ To set up and run this project, follow these steps:
 
 ### Usage
 
-Run Second phase notebook JIDDOU26.ipynb notebook to regenerate submission.csv
+Run Second phase notebook JIDDOU26.ipynb notebook to regenerate submission.csv and to generate the final_phase_images directory .
 Run test notebook .ipynb to test on a specific image
 
 ### Contributing
