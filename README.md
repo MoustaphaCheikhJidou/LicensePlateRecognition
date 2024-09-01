@@ -14,7 +14,7 @@ After gathering diverse and high-quality images in the first phase, this stage i
 
 - `requirements.txt`: Python dependencies required for the project.
 - `Second phase notebook JIDDOU26.ipynb`: Jupyter Notebook with the full pipeline of loading, processing, and outputting license plate data.
-- `test notebook .ipynb`: Jupyter Notebook with the full pipeline to test on a particular image.
+- `test notebook.ipynb`: Jupyter Notebook designed to test the pipeline on a specific image.
 
 ### Setup and Installation
 
@@ -26,7 +26,7 @@ To set up and run this project, follow these steps:
    cd LicensePlateRecognition
 
 
-2. Clone and Setup YOLOv8 Repository Clone the YOLOv8 repository and install its dependencies:
+2. install the dependencies:
     ```bash
     pip install -r requirements.txt    
     pip install ultralytics
@@ -34,12 +34,9 @@ To set up and run this project, follow these steps:
 
 ### Usage
 
-Run Second phase notebook JIDDOU26.ipynb notebook to regenerate submission.csv and to generate the final_phase_images directory .
-Run test notebook .ipynb to test on a specific image
+Run `Second phase notebook JIDDOU26.ipynb` to regenerate submission.csv and to generate the final_phase_images directory, which contains the generated images with a box around the license plate and the reading results. 
 
-### Contributing
-
-Contributions are highly encouraged! Please fork the repository, make your changes, and submit a pull request.
+Run `test notebook.ipynb` to test on a specific image.
 
 ### Contact
 
