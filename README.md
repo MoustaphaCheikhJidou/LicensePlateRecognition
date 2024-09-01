@@ -28,10 +28,10 @@ To set up and run this project, follow these steps:
 
 2. Clone and Setup YOLOv8 Repository Clone the YOLOv8 repository and install its dependencies:
     ```bash
-    !pip install -r requirements.txt
-    !git clone https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8.git
-    %cd Automatic-License-Plate-Recognition-using-YOLOv8
-    !pip install -r requirements.txt
+    pip install -r requirements.txt
+    git clone https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8.git
+    cd Automatic-License-Plate-Recognition-using-YOLOv8
+    pip install -r requirements.txt
     
     !pip install ultralytics
 
