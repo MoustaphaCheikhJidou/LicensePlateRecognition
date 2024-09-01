@@ -14,7 +14,7 @@ After gathering diverse and high-quality images in the first phase, this stage i
 
 - `requirements.txt`: Python dependencies required for the project.
 - `Second phase notebook JIDDOU26.ipynb`: Jupyter Notebook with the full pipeline of loading, processing, and outputting license plate data.
-- `test notebook.ipynb`: Jupyter Notebook designed to test the pipeline on a specific image.
+- `test notebook.ipynb`: Jupyter Notebook designed to test the pipeline on a specific image (you can change the path of the image).
 
 ### Setup and Installation
 
@@ -36,7 +36,7 @@ To set up and run this project, follow these steps:
 
 Run `Second phase notebook JIDDOU26.ipynb` to regenerate submission.csv and to generate the final_phase_images directory, which contains the generated images with a box around the license plate and the reading results. 
 
-Run `test notebook.ipynb` to test on a specific image.
+Run `test notebook.ipynb` to test on a specific image (you can change the path of the image).
 
 ### Contact
 
